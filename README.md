@@ -1,5 +1,5 @@
 # *integrantes*
-## ** Keiner Sebastián Rios** **Nickolas Sarmiento Rojas**
+## ** Keiner Sebastián Rios & Nickolas Sarmiento Rojas**
 
 
 # Loans_Nicker
