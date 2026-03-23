@@ -15,12 +15,19 @@
 # *Visión*
 nuestro software actúa como un asistente logístico digital que permite a los usuarios registrar, rastrear y recuperar sus pertenencias como videojuegos, herramientas, electrodomésticos, etc. de manera eficiente y profesional lo que hace diferente a Loans_Nicker de los demas porque este formaliza el proceso de préstamo mediante un sistema de inventario inteligente y un motor de notificaciones proactivas
 ### objetivos
-> Centralizar el Inventario
-> Automatizar el Seguimiento
-> Reducir Pérdidas
-> Fomentar la Responsabilidad
+> Centralizar el Inventario, automatizar el Seguimiento, reducir Pérdidas, fomentar la Responsabilidad
 ### beneficios
->Ahorro de Tiempo
->Historial de Confianza
->Control Total
->Preservación de Activos
+>Ahorro de Tiempo, historial de Confianza, control Total, preservación de Activos
+# *Requisitos*
+### requisitos funcionales
+>
+### requisitos no funcionales
+>
+# *Plan de Proyecto*
+### actividades
+>
+### cronograma
+>
+### presupuesto
+>
+
