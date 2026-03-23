@@ -11,3 +11,4 @@
 ![imagen del proyecto](https://raw.githubusercontent.com/sebastiankrios/Loans_Nicker/refs/heads/main/img/Gemini_Generated_Image_l0eqk6l0eqk6l0eq.png)
 # licencia
 
+https://creativecommons.org/licenses/by-nc-sa/4.0/
