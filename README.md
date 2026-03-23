@@ -14,3 +14,13 @@
 <a href="https://github.com/sebastiankrios/Loans_Nicker">Loans_Nicker</a> © 2026 by <a href="https://github.com/sebastiankrios">Sebastian Rios</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 # *Visión*
 nuestro software actúa como un asistente logístico digital que permite a los usuarios registrar, rastrear y recuperar sus pertenencias como videojuegos, herramientas, electrodomésticos, etc. de manera eficiente y profesional lo que hace diferente a Loans_Nicker de los demas porque este formaliza el proceso de préstamo mediante un sistema de inventario inteligente y un motor de notificaciones proactivas
+### objetivos
+> Centralizar el Inventario
+> Automatizar el Seguimiento
+> Reducir Pérdidas
+> Fomentar la Responsabilidad
+### beneficios
+>Ahorro de Tiempo
+>Historial de Confianza
+>Control Total
+>Preservación de Activos
