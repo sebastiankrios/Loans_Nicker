@@ -20,14 +20,19 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 >Ahorro de Tiempo, historial de Confianza, control Total, preservación de Activos
 # *Requisitos*
 ### requisitos funcionales
->
+> pajaaa
+> pakjaa
 ### requisitos no funcionales
->
+> pajaaa
+> aknjbvjk
 # *Plan de Proyecto*
 ### actividades
->
+> pajaaa
+> oajbjbv
 ### cronograma
->
+> pajaaa
+> abjcbj
 ### presupuesto
->
+>mpajaaa
+>pajacnap
 
