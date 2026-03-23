@@ -7,4 +7,4 @@
 > Nickolas cuyas habilidades en administración de sistemas, gestión de proyectos e interpretacion nos dara un plus para desarrollar este software acompañado de sus fortalezas como la adaptabilidad, toma de decisiones y su iniciativa.
 # *Loans_Nicker*
 ¿Prestaste tus herramientas, un juego o ese electrodoméstico y no recuerdas a quién? Con Loans_Nicker, el caos se termina, somos la herramienta definitiva que te ayudara para gestionar tus activos y nuestro fuerte la OGR: organizamos, gestionamos y recuperamos; con su implementacion llevaremos tu programa al 100 Porque lo que se presta, se cuida y porque controlar no debe ser un estres. 
-![imagen del proyecto](
+![imagen del proyecto](file:///C:/Users/sebas/OneDrive/Documents/UDEA%20materias/algoritmia%20y%20programacion/Gemini_Generated_Image_l0eqk6l0eqk6l0eq.png)
