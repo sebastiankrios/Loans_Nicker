@@ -9,3 +9,4 @@
 ¿Prestaste tus herramientas, un juego o ese electrodoméstico y no recuerdas a quién? Con Loans_Nicker, el caos se termina, somos la herramienta definitiva que te ayudara para gestionar tus activos y nuestro fuerte la OGR: organizamos, gestionamos y recuperamos; con su implementacion llevaremos tu programa al maximo Porque lo que se presta, se cuida, y porque el control no debe ser un estres.
 
 ![imagen del proyecto](https://raw.githubusercontent.com/sebastiankrios/Loans_Nicker/refs/heads/main/img/Gemini_Generated_Image_l0eqk6l0eqk6l0eq.png)
+# licencia
