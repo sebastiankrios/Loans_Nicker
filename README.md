@@ -25,6 +25,7 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 ### requisitos no funcionales
 > pajaaa
 > aknjbvjk
+
 # *Plan de Proyecto*
 ### actividades
 > pajaaa
