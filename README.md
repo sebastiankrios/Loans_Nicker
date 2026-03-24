@@ -51,9 +51,9 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 > Recolección de requisitos, creación del repositorio y firma de actas de entendimiento.
 #### Fase de Diseño:
 > Estructuración de la base de datos en archivos planos y diseño del menú de consola.
-#### Fase de Desarrollo (Sprint 1):
+#### Fase de Desarrollo (fase 1):
 > Implementación de módulos de Registro de Usuarios e Inventario con sus validaciones.
-#### Fase de Desarrollo (Sprint 2):
+#### Fase de Desarrollo (fase 2):
 > Lógica de préstamos, cálculo de facturación (impuesto del 23%) y generación de certificados .txt.
 #### Fase de Cierre:
 > Pruebas de seguridad del módulo administrador, exportación a CSV y redacción del manual de usuario.
