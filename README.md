@@ -26,6 +26,14 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 > Al crear un usuario, se debe definir un plazo fijo de préstamo entre 5, 10, 15 o 30 días.
 #### Registro de Ítems:
 > Cada objeto debe tener nombre ($\ge 3$ letras), categoría (Videojuegos, Libros, Herramientas, etc.), precio de compra e ID alfanumérico único.
+#### Valoración por Lógica Difusa:
+> El programa debe permitir registrar el estado de calidad del ítem usando lógica difusa al momento del ingreso.
+#### Control de Préstamos y Devoluciones:
+> Solo se permite prestar a usuarios registrados; las devoluciones deben generar un certificado en texto plano (.txt) con el ID y fecha.
+#### Generación de Ventas:
+> Los ítems con más de 30 días de préstamo deben facturarse automáticamente al prestador, sumando un "impuesto por conchudez" del 23% sobre el precio de compra.
+#### Módulo Administrativo:
+> Acceso restringido con usuario y contraseña para consultar estadísticas (total de ventas, pagos, lista de usuarios y récords de préstamos).
 ### requisitos no funcionales
 > pajaaa
 > aknjbvjk
