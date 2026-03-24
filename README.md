@@ -24,6 +24,8 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 > El sistema debe registrar nombre, apellido, documento y correo con validaciones específicas (nombres sin números, documento numérico de 3-15 dígitos y correo con formato
 #### Tiempos de Préstamo:
 > Al crear un usuario, se debe definir un plazo fijo de préstamo entre 5, 10, 15 o 30 días.
+#### Registro de Ítems:
+> Cada objeto debe tener nombre ($\ge 3$ letras), categoría (Videojuegos, Libros, Herramientas, etc.), precio de compra e ID alfanumérico único.
 ### requisitos no funcionales
 > pajaaa
 > aknjbvjk
