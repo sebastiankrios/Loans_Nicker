@@ -73,9 +73,10 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 #### Talento Humano: 
 > 2 integrantes (Keiner y Nickolas).
 #### Inversión de Tiempo: 
-> 60 horas por cada integrante ( 120 horas totales de equipo).
+> Se toma los meses que quedan del semestre (Marzo, Abril, Mayo) y da un total de 60 horas por cada integrante ( 120 horas totales de equipo).
 
 ![imagen de horas](https://raw.githubusercontent.com/sebastiankrios/Loans_Nicker/refs/heads/main/img/WhatsApp%20Image%202026-03-23%20at%209.22.58%20PM.jpeg)
 #### Valorización: 
 > Las horas se pagan simbólicamente al valor de una práctica profesional basada en 1 SMLV vigente.
 
+![imagen presupuesto](https://raw.githubusercontent.com/sebastiankrios/Loans_Nicker/refs/heads/main/img/WhatsApp%20Image%202026-03-24%20at%2012.10.27%20PM.jpeg)
