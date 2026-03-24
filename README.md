@@ -21,7 +21,9 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 # *Requisitos*
 ### requisitos funcionales
 #### Gestión de Usuarios:
-> pakjaa
+> El sistema debe registrar nombre, apellido, documento y correo con validaciones específicas (nombres sin números, documento numérico de 3-15 dígitos y correo con formato
+#### Tiempos de Préstamo:
+> Al crear un usuario, se debe definir un plazo fijo de préstamo entre 5, 10, 15 o 30 días.
 ### requisitos no funcionales
 > pajaaa
 > aknjbvjk
