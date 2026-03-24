@@ -20,7 +20,7 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 >Ahorro de Tiempo, historial de Confianza, control Total, preservación de Activos
 # *Requisitos*
 ### requisitos funcionales
-> pajaaa
+#### Gestión de Usuarios:
 > pakjaa
 ### requisitos no funcionales
 > pajaaa
