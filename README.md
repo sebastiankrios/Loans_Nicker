@@ -65,6 +65,7 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 > Codificación intensiva, pruebas y creación de la carpeta src y doc.
 #### Semana 16: 
 > Entrega final del software y sustentación ante el profesor.
+![diagrama de gantt](https://raw.githubusercontent.com/sebastiankrios/Loans_Nicker/refs/heads/main/img/unnamed.png)
 ### presupuesto
 > Siguiendo las directrices académicas, el presupuesto no se mide en dinero real sino en "tiempo de práctica de formación".
 #### Talento Humano: 
