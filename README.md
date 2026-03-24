@@ -35,8 +35,14 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 #### Módulo Administrativo:
 > Acceso restringido con usuario y contraseña para consultar estadísticas (total de ventas, pagos, lista de usuarios y récords de préstamos).
 ### requisitos no funcionales
-> pajaaa
-> aknjbvjk
+#### Interfaz:
+> El software debe contar con un menú amigable basado en consola.
+#### Lenguaje de Programación:
+> Todo el desarrollo debe ser realizado en Python.
+#### Persistencia de Datos:
+> El almacenamiento se hará mediante archivos planos, con capacidad de exportar resultados a formato CSV.
+#### Estructura de Código:
+> El proyecto debe organizar el código en una carpeta llamada src y la documentación en doc dentro del repositorio
 
 # *Plan de Proyecto*
 ### actividades
