@@ -58,9 +58,19 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 #### Fase de Cierre:
 > Pruebas de seguridad del módulo administrador, exportación a CSV y redacción del manual de usuario.
 ### cronograma
-> pajaaa
-> abjcbj
+> El proyecto se desarrolla durante el semestre académico 2026-1, con hitos clave en las siguientes semanas:
+#### Semana 1-7: 
+> Planeación y Entrega 1 (Puntos 1 al 7).
+#### Semana 8-15: 
+> Codificación intensiva, pruebas y creación de la carpeta src y doc.
+#### Semana 16: 
+> Entrega final del software y sustentación ante el profesor.
 ### presupuesto
->mpajaaa
->pajacnap
+> Siguiendo las directrices académicas, el presupuesto no se mide en dinero real sino en "tiempo de práctica de formación".
+#### Talento Humano: 
+> 2 integrantes (Keiner y Nickolas).
+#### Inversión de Tiempo: 
+> 50 horas por cada integrante (100 horas totales de equipo).
+#### Valorización: 
+> Las horas se pagan simbólicamente al valor de una práctica profesional basada en 1 SMLV vigente.
 
