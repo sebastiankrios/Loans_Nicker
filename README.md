@@ -45,6 +45,7 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 > El proyecto debe organizar el código en una carpeta llamada src y la documentación en doc dentro del repositorio
 
 # *Plan de Proyecto*
+> Para el desarrollo de Loans_Nicker, se seguirá un modelo de desarrollo ágil donde el docente actúa como Product Owner. Las actividades principales incluyen:
 ### actividades
 > pajaaa
 > oajbjbv
