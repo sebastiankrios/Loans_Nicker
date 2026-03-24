@@ -57,7 +57,7 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 > Lógica de préstamos, cálculo de facturación (impuesto del 23%) y generación de certificados .txt.
 #### Fase de Cierre:
 > Pruebas de seguridad del módulo administrador, exportación a CSV y redacción del manual de usuario.
-### cronograma
+## cronograma
 > El proyecto se desarrolla durante el semestre académico 2026-1, con hitos clave en las siguientes semanas:
 #### Semana 1-7: 
 > Planeación y Entrega 1 (Puntos 1 al 7).
@@ -68,7 +68,7 @@ nuestro software actúa como un asistente logístico digital que permite a los u
 
 ![diagrama de gantt](https://raw.githubusercontent.com/sebastiankrios/Loans_Nicker/refs/heads/main/img/unnamed.png)
 
-### presupuesto
+## presupuesto
 > Siguiendo las directrices académicas, el presupuesto no se mide en dinero real sino en "tiempo de práctica de formación".
 #### Talento Humano: 
 > 2 integrantes (Keiner y Nickolas).
