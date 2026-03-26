@@ -75,7 +75,7 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 #### Inversión de Tiempo: 
 > siguiendo los parametros del cursum valor de horas de trabajo independiente invertidas al semestre es total de 80 horas por integrante
 
-![imagen horas](
+![imagen horas](https://raw.githubusercontent.com/sebastiankrios/Loans_Nicker/refs/heads/main/img/Captura%20de%20pantalla%202026-03-26%20121116.png)
 
 ![imagen de horas](https://raw.githubusercontent.com/sebastiankrios/Loans_Nicker/refs/heads/main/img/WhatsApp%20Image%202026-03-23%20at%209.22.58%20PM.jpeg)
 #### Valorización: 
