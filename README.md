@@ -81,4 +81,5 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 #### Valorización: 
 > Las horas se pagan simbólicamente al valor de una práctica profesional basada en 1 SMLV vigente.
 
-![imagen presupuesto](
+![imagen presupuesto](https://raw.githubusercontent.com/sebastiankrios/Loans_Nicker/refs/heads/main/img/Captura%20de%20pantalla%202026-03-26%20122247.png)
+
