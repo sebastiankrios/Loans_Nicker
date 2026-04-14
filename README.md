@@ -77,13 +77,16 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 #### Talento Humano: 
 > 2 integrantes (Keiner y Nickolas).
 #### Inversión de Tiempo: 
-> siguiendo los parametros del cursum valor de horas de trabajo independiente invertidas al semestre es total de 80 horas por integrante
-
-![imagen horas](https://raw.githubusercontent.com/sebastiankrios/Loans_Nicker/refs/heads/main/img/Captura%20de%20pantalla%202026-03-26%20121116.png)
+> siguiendo los parametros del cursum valor de horas de trabajo independiente invertidas al semestre es total de 80 horas*semestre de cada integrante.
 
 ![imagen de horas](https://raw.githubusercontent.com/sebastiankrios/Loans_Nicker/refs/heads/main/img/WhatsApp%20Image%202026-03-23%20at%209.22.58%20PM.jpeg)
 #### Valorización: 
 > Las horas se pagan simbólicamente al valor de una práctica profesional basada en 1 SMLV vigente.
 
-![imagen presupuesto](https://raw.githubusercontent.com/sebastiankrios/Loans_Nicker/refs/heads/main/img/Captura%20de%20pantalla%202026-03-26%20122247.png)
+>horas semanales practicante= 40 y semanas*mes= 4
+>40*4= 160 horas al mes del practicante
+
+>1,750,905/160 = 10,943 valor hora del practicante.
+
+>10,943*80= 875,440 pago a valor de practicantes por estudiantes.
 
