@@ -16,7 +16,9 @@
 Nuestro software actúa como un asistente logístico digital que permite a los usuarios registrar, rastrear y recuperar sus pertenencias como videojuegos, herramientas, electrodomésticos, etc. de manera eficiente y profesional lo que hace diferente a Loans_Nicker de los demas porque este formaliza el proceso de préstamo mediante un sistema de inventario inteligente y un motor de notificaciones proactivas
 ### objetivos
 > Crear un programa de consola visualmente amigable al usuario, en donde permita gestionar el préstamo de artículos, gestionando mediante archivos planos la información, para posteriormente exportar los resultados a un CSV usando Python.
+
 > Desarrollar un sistema de validación de datos y lógica difusa en Python que garantice la integridad de la información del inventario (videojuegos, libros, herramientas, etc.) y automatice la generación de facturas de venta con recargos legales ante el incumplimiento de los plazos de devolución.
+
 > Implementar un ciclo de desarrollo basado en metodologías ágiles y control de versiones mediante GitHub, documentando requisitos funcionales, planes de proyecto y manuales de usuario para asegurar la escalabilidad y sostenibilidad del gestor de préstamos.
 ### beneficios
 >Ahorro de Tiempo, historial de Confianza, control Total, preservación de Activos
