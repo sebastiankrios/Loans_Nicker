@@ -84,6 +84,7 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 > Las horas se pagan simbólicamente al valor de una práctica profesional basada en 1 SMLV vigente.
 
 >horas semanales practicante= 40 y semanas*mes= 4
+
 >40*4= 160 horas al mes del practicante
 
 >1,750,905/160 = 10,943 valor hora del practicante.
