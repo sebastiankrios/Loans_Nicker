@@ -1,4 +1,4 @@
-# *integrantes*
+# *Integrantes*
 ## **Keiner Sebastián Rios** &  **Nickolas Sarmiento Rojas**
 # *Vínculos académicos y descripción*
 ### Keiner & Nickolas, ambos son estudiantes de la Universidad de Antioquia pertenecientes al cuarto semestre del programa Ingenieria Industrial  
