@@ -90,4 +90,17 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 >1,750,905/160 = 10,943 valor hora del practicante.
 
 >10,943*80= 875,440 pago mensual a valor de practicantes por estudiantes.
+# *Plan de versionado*
+Versión,Día Aprox.,Semana,Hito / Procedimiento Relevante
+v0.1.0,Días 1 - 14,Sem 1-2,"Inicio del proyecto: Creación del repositorio en GitHub, definición de integrantes, registro de actas de entendimiento y compromiso."
+v0.2.0,Días 15 - 35,Sem 3-5,Definición técnica: Creación de la especificación de requisitos (funcionales y no funcionales) y el reporte de visión del proyecto.
+v0.5.0,Día 56,Sem 8,"Entrega Avance 1: Consolidación del Plan de proyecto (Gantt, presupuesto), Plan de versionado y Puntos 1 al 7 finalizados."
+Versión,Día Aprox.,Semana,Hito / Procedimiento Relevante
+v0.6.0,Días 57 - 70,Sem 9-10,Estructura base: Creación de la carpeta src con el cascarón principal. Implementación del menú de consola interactivo y el registro/validación de usuarios.
+v0.7.0,Días 71 - 84,Sem 11-12,"Módulos core: Desarrollo del registro de inventario, validaciones de categorías y lógica principal de Registrar Préstamo."
+v0.8.0,Días 85 - 91,Sem 13,"Módulos avanzados: Implementación de Registrar Devolución, penalizaciones por ítems con más de 30 días e impresión de facturas y certificados en archivos .txt."
+v0.9.0,Días 92 - 98,Sem 14,Administración y Documentación: Creación del panel de Administrador con sus reportes. Realización de pruebas lógicas. Creación de la carpeta doc con el manual de usuario.
+Versión,Día Aprox.,Semana,Hito / Procedimiento Relevante
+v0.9.5,Días 99 - 105,Sem 15,"Corrección de errores (Release Candidate): Ajustes finales tras probar todos los módulos, corrección de bugs en la lectura/escritura de archivos planos y optimización del código."
+v1.0.0,Día 112,Sem 16,Entrega Definitiva (Producción): Software estable y completamente funcional con todas las carpetas (src y doc) cargadas en GitHub. Versión lista para la sustentación formal de los resultados.
 
