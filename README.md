@@ -91,17 +91,17 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 
 >10,943*80= 875,440 pago mensual a valor de practicantes por estudiantes.
 
-## 📦 8. Plan de Versionado: Gestor de Préstamos "Loans_Nicker"
+## *Plan de Versionado: Gestor de Préstamos "Loans_Nicker"*
 | Versión | Etapa del Proyecto | Días Aprox. | Semanas | Hito Alcanzado / Procedimiento Relevante | Estado |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 🏷️ **v0.1.0** | **Fase Inicial: Planeación** | Días 1 - 14 | Sem 1-2 | **Inicio del proyecto:** Creación del repositorio en GitHub, definición de integrantes, y registro de actas de entendimiento y compromiso. | 🟢 Completado |
-| 🏷️ **v0.2.0** | **Fase Inicial: Documentación** | Días 15 - 35 | Sem 3-5 | **Definición técnica:** Creación de la especificación de requisitos (funcionales y no funcionales) y el reporte de visión del proyecto. | 🟢 Completado |
-| 🎯 **v0.5.0** | **Primer Entregable (Avance 1)** | Día 56 | Sem 8 | **Entrega Avance 1:** Consolidación del Plan de proyecto (Gantt, presupuesto), Plan de versionado y Puntos 1 al 7 finalizados. | 🟡 En Progreso |
-| ⚙️ **v0.6.0** | **Fase Intermedia: Código Base** | Días 57 - 70 | Sem 9-10 | **Estructura base:** Creación de la carpeta `src`. Implementación del menú de consola interactivo y validaciones básicas de usuarios. | ⚪ Pendiente |
-| ⚙️ **v0.7.0** | **Fase Intermedia: Módulos Core** | Días 71 - 84 | Sem 11-12 | **Desarrollo principal:** Registro de inventario, validaciones de categorías y lógica algorítmica de *Registrar Préstamo*. | ⚪ Pendiente |
-| ⚙️ **v0.8.0** | **Fase Intermedia: Transacciones**| Días 85 - 91 | Sem 13 | **Módulos avanzados:** *Registrar Devolución*, penalizaciones (>30 días) e impresión de facturas/certificados en archivos `.txt`. | ⚪ Pendiente |
-| 📊 **v0.9.0** | **Administración y Manuales** | Días 92 - 98 | Sem 14 | **Panel Admin:** Creación de reportes de administrador y estadísticas. Creación de la carpeta `doc` con el manual de usuario. | ⚪ Pendiente |
-| 🛠️ **v0.9.5** | **Fase Final: Pruebas y Ajustes** | Días 99 - 105| Sem 15 | **Corrección de bugs (RC):** Ajustes finales tras probar los módulos en consola, validación de variables globales y persistencia de datos. | ⚪ Pendiente |
-| 🚀 **v1.0.0** | **Entrega Definitiva (PROD)** | Día 112 | Sem 16 | **Software Estable:** Proyecto 100% funcional cargado en GitHub (carpetas `src` y `doc`). Listo para la sustentación final de 5 minutos. | ⚪ Pendiente |
+| **v0.1.0** | **Fase Inicial: Planeación** | Días 1 - 14 | Sem 1-2 | **Inicio del proyecto:** Creación del repositorio en GitHub, definición de integrantes, y registro de actas de entendimiento y compromiso. | 🟢 Completado |
+| **v0.2.0** | **Fase Inicial: Documentación** | Días 15 - 35 | Sem 3-5 | **Definición técnica:** Creación de la especificación de requisitos (funcionales y no funcionales) y el reporte de visión del proyecto. | 🟢 Completado |
+| **v0.5.0** | **Primer Entregable (Avance 1)** | Día 56 | Sem 8 | **Entrega Avance 1:** Consolidación del Plan de proyecto (Gantt, presupuesto), Plan de versionado y Puntos 1 al 7 finalizados. | 🟢 Completado |
+| **v0.6.0** | **Fase Intermedia: Código Base** | Días 57 - 70 | Sem 9-10 | **Estructura base:** Creación de la carpeta `src`. Implementación del menú de consola interactivo y validaciones básicas de usuarios. | 🟢 Completado |
+| **v0.7.0** | **Fase Intermedia: Módulos Core** | Días 71 - 84 | Sem 11-12 | **Desarrollo principal:** Registro de inventario, validaciones de categorías y lógica algorítmica de *Registrar Préstamo*. | 🟢 Completado |
+| **v0.8.0** | **Fase Intermedia: Transacciones**| Días 85 - 91 | Sem 13 | **Módulos avanzados:** *Registrar Devolución*, penalizaciones (>30 días) e impresión de facturas/certificados en archivos `.txt`. | 🟢 Completado |
+| **v0.9.0** | **Administración y Manuales** | Días 92 - 98 | Sem 14 | **Panel Admin:** Creación de reportes de administrador y estadísticas. Creación de la carpeta `doc` con el manual de usuario. | 🟢 Completado |
+| **v0.9.5** | **Fase Final: Pruebas y Ajustes** | Días 99 - 105| Sem 15 | **Corrección de bugs (RC):** Ajustes finales tras probar los módulos en consola, validación de variables globales y persistencia de datos. | 🟢 Completado |
+| **v1.0.0** | **Entrega Definitiva (PROD)** | Día 112 | Sem 16 | **Software Estable:** Proyecto 100% funcional cargado en GitHub (carpetas `src` y `doc`). Listo para la sustentación final de 5 minutos. | 🟢 Completado |
 
 > **Nota para revisión:** Los tiempos en días se han estimado con base en un ciclo de desarrollo académico estándar de 16 semanas.
