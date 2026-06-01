@@ -92,9 +92,12 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 >10,943*80= 875,440 pago mensual a valor de practicantes por estudiantes.
 # *Plan de versionado*
 Versión,Día Aprox.,Semana,Hito / Procedimiento Relevante
-v0.1.0,Días 1 - 14,Sem 1-2,"Inicio del proyecto: Creación del repositorio en GitHub, definición de integrantes, registro de actas de entendimiento y compromiso."
-v0.2.0,Días 15 - 35,Sem 3-5,Definición técnica: Creación de la especificación de requisitos (funcionales y no funcionales) y el reporte de visión del proyecto.
-v0.5.0,Día 56,Sem 8,"Entrega Avance 1: Consolidación del Plan de proyecto (Gantt, presupuesto), Plan de versionado y Puntos 1 al 7 finalizados."
+>v0.1.0,Días 1 - 14,Sem 1-2
+>"Inicio del proyecto: Creación del repositorio en GitHub, definición de integrantes, registro de actas de entendimiento y compromiso."
+>v0.2.0,Días 15 - 35,Sem 3-5
+>Definición técnica: Creación de la especificación de requisitos (funcionales y no funcionales) y el reporte de visión del proyecto.
+>v0.5.0,Día 56,Sem 8
+>"Entrega Avance 1: Consolidación del Plan de proyecto (Gantt, presupuesto), Plan de versionado y Puntos 1 al 7 finalizados."
 Versión,Día Aprox.,Semana,Hito / Procedimiento Relevante
 v0.6.0,Días 57 - 70,Sem 9-10,Estructura base: Creación de la carpeta src con el cascarón principal. Implementación del menú de consola interactivo y el registro/validación de usuarios.
 v0.7.0,Días 71 - 84,Sem 11-12,"Módulos core: Desarrollo del registro de inventario, validaciones de categorías y lógica principal de Registrar Préstamo."
