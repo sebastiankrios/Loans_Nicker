@@ -93,7 +93,7 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 
 >10,943*80= 875,440 pago mensual a valor de practicantes por estudiantes.
 
-## *Plan de Versionado: Gestor de Préstamos "Loans_Nicker"*
+# *Plan de Versionado: Gestor de Préstamos "Loans_Nicker"*
 | Versión | Etapa del Proyecto | Días Aprox. | Semanas | Hito Alcanzado / Procedimiento Relevante | Estado |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | **v0.1.0** | **Fase Inicial: Planeación** | Días 1 - 14 | Sem 1-2 | **Inicio del proyecto:** Creación del repositorio en GitHub, definición de integrantes, y registro de actas de entendimiento y compromiso. | 🟢 Completado |
