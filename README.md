@@ -52,7 +52,7 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 
 # *Plan de Proyecto*
 ## Actividades
-> Para el desarrollo de Loans_Nicker, se seguirá un modelo de desarrollo ágil donde el docente actúa como Product Owner. Las actividades principales incluyen:
+> Para el desarrollo de Loans_Nicker, se seguirá un modelo de desarrollo ágil donde el docente actúa como ProductOwner. Las actividades principales incluyen:
 #### Fase de Inicio: 
 > Recolección de requisitos, creación del repositorio y firma de actas de entendimiento.
 #### Fase de Diseño:
@@ -77,7 +77,7 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 ## Presupuesto
 > Siguiendo las directrices académicas, el presupuesto no se mide en dinero real sino en "tiempo de práctica de formación".
 #### Talento Humano: 
-> 2 integrantes (Keiner y Nickolas).
+> 3 integrantes (Keiner,Camila y Nickolas).
 #### Inversión de Tiempo: 
 > siguiendo los parametros del cursum valor de horas de trabajo independiente invertidas al semestre es total de 80 horas*semestre de cada integrante.
 
