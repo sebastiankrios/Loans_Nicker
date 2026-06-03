@@ -3,7 +3,9 @@
 # *Vínculos académicos y descripción*
 ### Keiner , Nickolas & Maria Camila, los tres son estudiantes de la Universidad de Antioquia pertenecientes al tercer semestre del programa Ingenieria Industrial  
 > Keiner cuyas habilidades resaltan en la redacción técnica de contenidos, atención al cliente y marketing digital sumado a sus fortalezas que son el liderazgo, pensamiento critico y gestion del tiempo haran una trio imparable que nos servira para impulsar este software.
-> Camila cuyas habilidades resaltan su disciplina y compromiso, con una mentalidad de crecimiento que se crece ante los retos. Además, tu compañerismo te convierte en un pilar valioso para cualquier equipo.
+> 
+> Camila cuyas habilidades resaltan su disciplina y compromiso, con una mentalidad de crecimiento que se crece ante los retos. Además, su compañerismo se convierte en un pilar valioso para cualquier equipo.
+> 
 > Nickolas cuyas habilidades en administración de sistemas, gestión de proyectos e interpretacion nos dara un plus para desarrollar este software acompañado de sus fortalezas como la adaptabilidad, toma de decisiones y su iniciativa.
 # *Loans_Nicker*
 ¿Prestaste tus herramientas, un juego o ese electrodoméstico y no recuerdas a quién? Con Loans_Nicker, el caos se termina, somos la herramienta definitiva que te ayudara para gestionar tus activos y nuestro fuerte la OGR: organizamos, gestionamos y recuperamos; con su implementacion llevaremos tu programa al maximo Porque lo que se presta, se cuida, y porque el control no debe ser un estres.
