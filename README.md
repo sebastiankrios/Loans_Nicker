@@ -40,6 +40,7 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 > Los ítems con más de 30 días de préstamo deben facturarse automáticamente al prestador, sumando un "impuesto por conchudez" del 23% sobre el precio de compra.
 #### Módulo Administrativo:
 > Acceso restringido con usuario y contraseña para consultar estadísticas (total de ventas, pagos, lista de usuarios y récords de préstamos).
+> ### Requisistos no funcionales
 #### Interfaz:
 > El software debe contar con un menú amigable basado en consola.
 #### Lenguaje de Programación:
@@ -51,7 +52,7 @@ Nuestro software actúa como un asistente logístico digital que permite a los u
 
 # *Plan de Proyecto*
 ## Actividades
-> Para el desarrollo de Loans_Nicker, se seguirá un modelo de desarrollo ágil donde el docente actúa como ProductOwner. Las actividades principales incluyen:
+> Para el desarrollo de Loans_Nicker, se seguirá un modelo de desarrollo ágil donde el docente actúa como (PO) Product Owner. Las actividades principales incluyen:
 #### Fase de Inicio: 
 > Recolección de requisitos, creación del repositorio y firma de actas de entendimiento.
 #### Fase de Diseño:
